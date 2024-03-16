@@ -1,3 +1,16 @@
 # Second-Checkpoint
 
-This repo will contain PR of the work done by teams till Checkpoint 2(Day 2,March 16 10a.m.). Your PR should contain the repository link and also mention what functionality you have implemented till now.
+## Team Name
+Write your team name here
+
+## Team Member
+Write name of your team members
+
+## Description
+What progress you have done from checkpoint 1 till now
+
+## Repository Link
+Write Link to your repository
+
+## Other Link
+Video of Website or App
