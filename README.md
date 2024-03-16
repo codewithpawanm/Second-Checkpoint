@@ -1,19 +1,23 @@
 # Second-Checkpoint
 
 ## Team Name
-Write your team name here
+Team_Yojaks
 
 ## Team Member
-Write name of your team members
+1) Pawan Mishra
+2) Himanshu Pandey
 
 ## Problem Statement
-Mention your Problem Statement along with it's number
+Waste Management
 
 ## Description
-What progress you have done from checkpoint 1 till now
+> Created Frontend Page of website
+> Added Guidlines to PS
+> Created admin page(In progress)
+> Compalaint Section(in progress)
 
 ## Repository Link
-Write Link to your repository
+https://github.com/codewithpawanm/Waste-Management-System.git
 
 ## Other Link
-Video of Website or App
+https://drive.google.com/file/d/1QnGdvDY-R_vGp1jGUkjICwzq2ELL_YCf/view?usp=sharing
